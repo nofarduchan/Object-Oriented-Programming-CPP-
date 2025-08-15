@@ -1,0 +1,3 @@
+C:/Users/nofar/CLionProjects/projectcpp2/cmake-build-debug/CMakeFiles/projectcpp2.dir
+C:/Users/nofar/CLionProjects/projectcpp2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nofar/CLionProjects/projectcpp2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

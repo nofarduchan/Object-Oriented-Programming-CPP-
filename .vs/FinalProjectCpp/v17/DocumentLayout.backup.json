@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Registration.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Registration.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -54,24 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-15T11:12:41.879Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Reversi.h",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Reversi.h",
               "RelativeDocumentMoniker": "Reversi.h",
@@ -83,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Registration.h",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Registration.h",
               "RelativeDocumentMoniker": "Registration.h",
@@ -96,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Player.h",
               "RelativeDocumentMoniker": "Player.h",
@@ -108,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "League.cpp",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\League.cpp",
               "RelativeDocumentMoniker": "League.cpp",
@@ -120,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -132,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Reversi.cpp",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Reversi.cpp",
               "RelativeDocumentMoniker": "Reversi.cpp",
@@ -144,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\CMakeLists.txt",
               "RelativeDocumentMoniker": "CMakeLists.txt",
@@ -156,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Registration.cpp",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Registration.cpp",
               "RelativeDocumentMoniker": "Registration.cpp",
@@ -168,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\Player.cpp",
               "RelativeDocumentMoniker": "Player.cpp",
@@ -180,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "League.h",
               "DocumentMoniker": "C:\\nofar\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\FinalProjectCpp\\FinalProjectCpp\\League.h",
               "RelativeDocumentMoniker": "League.h",
